@@ -1,1 +1,1 @@
-# -HEC-GenerativeAI-Training-Program
+# HEC Generative AI Training Program

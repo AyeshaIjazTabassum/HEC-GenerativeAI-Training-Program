@@ -23,6 +23,8 @@
 - Creating and securely storing API keys
 - ChatGPT model process overview
 - Introduction to stemming, lemmatization, vector databases, transformers, pre-trained models, and Retrieval-Augmented Generation (RAG) for Model training and fine-tuning
+
 **_Practice Sessions_**
+
 **_8 - 9 pm PKT, Tuesday, Jan 20, 2026 – Friday, Jan 23, 2026_**
  - **Quiz 1  is provided by the end of Wednesday with a deadline by Sunday midnight**

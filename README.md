@@ -29,7 +29,7 @@
 **_8 - 9 pm PKT, Tuesday, Jan 20, 2026 – Friday, Jan 23, 2026_**
  - **Quiz 1  is provided by the end of Wednesday with a deadline by Sunday midnight**
 
-#Week 2 Module – Online Dev Platforms, Python Syntax, and Applications Development with ChatGPT
+# Week 2 Module – Online Dev Platforms, Python Syntax, and Applications Development with ChatGPT
  
 _**8 – 10 pm PKT - Sunday, Jan 25, 2026**_
 - Setting up development environments like Google Colab and Hugging Face to develop and deploy Generative AI applications
